@@ -1,2 +1,2 @@
-# Sujii
+# Sujji
 It is my first project
